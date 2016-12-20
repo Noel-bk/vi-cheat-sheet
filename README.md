@@ -15,3 +15,8 @@ A list of cool features of Vi.
 ```
 g/^$/d
 ```
+
+### Add a string to the end of each line with *`foo`*
+```
+%s/$/foo/g
+```
