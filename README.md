@@ -20,3 +20,8 @@ g/^$/d
 ```
 %s/$/foo/g
 ```
+
+### Replace every comma with new line
+```
+%s/,/\r/g
+```
