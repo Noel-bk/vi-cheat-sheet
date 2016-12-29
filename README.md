@@ -6,7 +6,7 @@ A list of cool features of Vi.
 %s!^!foo!
 ```
 
-### Replace the begging of each selected line with *`foo`*
+### Replace the beginning of each selected line with *`foo`*
 ```
 '<,'>s!^!foo!
 ```
