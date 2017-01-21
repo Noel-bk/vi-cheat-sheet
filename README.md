@@ -25,3 +25,9 @@ g/^$/d
 ```
 %s/,/\r/g
 ```
+
+### Delete every new lines
+```
+%s/\n/
+```
+aa
