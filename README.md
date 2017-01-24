@@ -11,14 +11,14 @@ A list of cool features of Vi.
 '<,'>s!^!foo!
 ```
 
-### Remove blank lines
-```
-g/^$/d
-```
-
 ### Add a string to the end of each line with *`foo`*
 ```
 %s/$/foo/g
+```
+
+### Remove blank lines
+```
+g/^$/d
 ```
 
 ### Replace every comma with *new line*
