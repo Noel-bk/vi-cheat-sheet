@@ -31,3 +31,11 @@ g/^$/d
 %s/\n/
 ```
 
+### Insert text at beginning of a multi-line selection
+> `Ctrl+V` to enter visual block mode.
+>
+> select the columns of text in the lines you want to comment.
+>
+> `Shift+I` and type the text you want to insert.
+>
+> Hit `Esc`.
