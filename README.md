@@ -39,3 +39,9 @@ g/^$/d
 > `Shift+I` and type the text you want to insert.
 >
 > Hit `Esc`.
+
+### Open a new line *below* the current line
+`o`
+
+### Open a new line *above* the current line
+`O`
